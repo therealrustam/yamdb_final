@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: yamdb
+    image: therealrustam/api_yamdb
     restart: always
     volumes:
       - static_value:/app/static/
