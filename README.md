@@ -1,3 +1,5 @@
+![Yamdb](https://github.com/therealrustam/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # Проект YaMDb
 ## Описание
 
@@ -69,6 +71,3 @@ build — команда сборки образа по инструкциям �
 ## Авторы
 
 Рустам Вахитов, Наталья Колядина, Николай Павлов
-
-
-![Yamdb](https://github.com/therealrustam/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
