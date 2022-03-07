@@ -69,3 +69,5 @@ build — команда сборки образа по инструкциям �
 ## Авторы
 
 Рустам Вахитов, Наталья Колядина, Николай Павлов
+
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
