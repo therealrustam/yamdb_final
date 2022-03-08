@@ -5,7 +5,7 @@ COPY ./ /app
 
 WORKDIR /app
 
-COPY requirements.txt pwd
+
 
 RUN pip3 install -r requirements.txt --no-cache-dir
 
