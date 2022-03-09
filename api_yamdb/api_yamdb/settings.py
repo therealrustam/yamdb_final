@@ -7,7 +7,7 @@ SECRET_KEY = 'p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['84.252.139.136', 'therealrustam.sytes.net', ]
+ALLOWED_HOSTS = ['84.252.139.136', 'localhost', 'therealrustam.ddns.net', ]
 
 
 AUTH_USER_MODEL = 'reviews.User'
