@@ -3,8 +3,11 @@
 # Проект YaMDb
 
 
-## Адрес
+## Адреса
+
 http://therealrustam.ddns.net/admin/
+
+http://therealrustam.ddns.net/redoc/
 
 ## Описание
 
