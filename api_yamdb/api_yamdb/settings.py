@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'django_filters',
     'api.apps.ApiConfig',
     'reviews.apps.ReviewsConfig',
+    'drf_yasg',
 
 ]
 
