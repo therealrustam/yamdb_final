@@ -4,7 +4,7 @@
 
 
 ## Адрес
-http://therealrustam.ddns.net
+http://therealrustam.ddns.net/admin/
 
 ## Описание
 
